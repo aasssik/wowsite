@@ -1,0 +1,73 @@
+html {
+box-sizing: border-box;
+font-size: 16px;
+}
+  
+*, *:before, *:after {
+box-sizing: inherit;
+}
+  
+body, h1, h2, h3, h4, h5, h6, p, ol, ul {
+margin: 0;
+padding: 0;
+font-weight: normal;
+}
+  
+ol, ul {
+list-style: none;
+}
+  
+img {
+max-width: 100%;
+height: auto;
+}
+
+.header-container{
+    height: 715px;
+    width: 1536px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    background-color: palevioletred;
+}
+.header-title{
+    display: flex;
+    padding-top: 100px;
+    margin-left: 400px;
+    font-size: 50px;
+    font-style: italic;
+}
+.header-subtitle1{
+    margin-top: 10px;
+    margin-left: 600px;
+    font-size: 30px;
+}
+.header-subtitle2{
+    margin-top: 10px;
+    margin-left: 640px;
+    font-size: 30px;
+}
+.button{
+    display: block;
+    width: 210px;
+    height: 70px;
+    background-color: red;
+    margin-left: 640px;
+    margin-top: 50px;
+    color: #ffffff;
+    font-size: 50px;
+    font-display: center;
+}
+.thinking-goma{
+    margin-top: -30px;
+    margin-left: 1000px;
+}
+.musica{
+    margin-top: -2500px;
+    margin-left: 150px;
+}
+.spoiler{
+    margin-bottom: 10px;
+    margin-left: 180px;
+}
