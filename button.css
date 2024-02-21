@@ -1,0 +1,62 @@
+html {
+box-sizing: border-box;
+font-size: 16px;
+}
+  
+*, *:before, *:after {
+box-sizing: inherit;
+}
+  
+body, h1, h2, h3, h4, h5, h6, p, ol, ul {
+margin: 0;
+padding: 0;
+font-weight: normal;
+}
+  
+ol, ul {
+list-style: none;
+}
+  
+img {
+max-width: 100%;
+height: auto;
+}
+.header-container{
+    height: 10200px;
+    width: 1536px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    background-color: #FFC7C7;
+}
+
+.header-title{
+    display: flex;
+    padding-top: 100px;
+    margin-left: 400px;
+    font-size: 50px;
+    font-style: italic;
+    font-weight: 400;
+}
+.header-subtitle1{
+    margin-top: 10px;
+    margin-left: 600px;
+    font-size: 20px;
+}
+.header-subtitle2{
+    margin-top: 10px;
+    margin-left: 100px;
+    font-size: 40px;
+}
+.VD{
+    size: 150;
+}
+.sorry{
+    margin-left: 100px;
+    font-size: 20px;
+    margin-top: 10px;
+}
+.conf{
+    margin-left: 500px;
+}
